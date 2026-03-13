@@ -1,6 +1,8 @@
 # Haydee Workshop Upload Action
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/thegamerbay/haydee-workshop-upload)](https://github.com/thegamerbay/haydee-workshop-upload/releases)
+[![Lint Workflows and Action](https://github.com/thegamerbay/haydee-workshop-upload/actions/workflows/lint.yml/badge.svg)](https://github.com/thegamerbay/haydee-workshop-upload/actions/workflows/lint.yml)
+[![Update Major Tag](https://github.com/thegamerbay/haydee-workshop-upload/actions/workflows/update-major-tag.yml/badge.svg)](https://github.com/thegamerbay/haydee-workshop-upload/actions/workflows/update-major-tag.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A GitHub Action that automatically packs a Haydee mod into a `.pack` file using the official `packer.exe`, and uploads it directly to the Steam Workshop.
