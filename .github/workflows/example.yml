@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Upload Mod via haydee-workshop-upload
         uses: thegamerbay/haydee-workshop-upload@v1
